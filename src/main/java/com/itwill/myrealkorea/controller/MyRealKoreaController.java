@@ -10,5 +10,4 @@ public class MyRealKoreaController {
         return "홈";
     }
 
-
 }
